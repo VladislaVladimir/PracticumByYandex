@@ -10,3 +10,6 @@
 |6| [Поиск причин убыточности рекламной кампании развлекательного приложения](https://github.com/VladislaVladimir/PracticumByYandex/tree/main/6_study_project)| Python, Pandas, Matplotlib, NumPy, SciPy| Исследование причин убыточности рекламной компании развлекательного приложения на основе когортного анализа (Retention rate, Conversion rate) и метрик юнит-экономики ( LTV, CAC, ROI ).|
 |7| [Анализ А/В теста по увеличению выручки интернет-магазина](https://github.com/VladislaVladimir/PracticumByYandex/tree/main/7_study%20project)| Python, Pandas, Matplotlib, NumPy, SciPy| Приоритизация гипотез, анализ проведенного А/В теста|
 |8|  | | |
+|9|  | | |
+|10|  | | |
+|11|  | | |
